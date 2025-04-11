@@ -1,3 +1,3 @@
 # learn
 <br>
-author-pratiush
+author-pratiush pathak
